@@ -19,12 +19,13 @@ UI/UX suggestions (non-security issues)
 🎁 Rewards
 RMDT is an early-stage startup, so rewards are structured modestly:
 
-| Severity | Reward                             |
-|----------|------------------------------------|
-| Critical | Up to $100 / RMDT Token equivalent |
-| High     | Up to $50 / RMDT Token equivalent  |
-| Medium   | Mention in Hall of Fame            |
-| Low      | Mention in Hall of Fame            |
+| Severity | Reward                                                                                     |
+|----------|--------------------------------------------------------------------------------------------|
+| Critical | $500 – $1000 (RMDT Token equivalent), based on impact, exploitability, and report quality  |
+| High     | $100 – $500 (RMDT Token equivalent), depending on severity and clarity of the finding      |
+| Medium   | Mention in Hall of Fame                                                                    |
+| Low      | Mention in Hall of Fame                                                                    |
+
 
 
 Reward amount depends on severity, clarity of report, and reproducibility.
