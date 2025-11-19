@@ -30,7 +30,7 @@ RMDT is an early-stage startup, so rewards are structured modestly:
 Reward amount depends on severity, clarity of report, and reproducibility.
 ✉️ How to Report
 To submit a vulnerability, email us at:
-📧 admin@rmdt.io
+📧 security@rmdt.io
 
 Please include:
 Clear description of the issue
