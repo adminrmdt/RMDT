@@ -75,11 +75,16 @@ Timelock / multisig usage: Yes, the Timelock contract is used to ensure that maj
 📣 Community & Social Profiles
 Stay connected with the official RMDT channels:
 
-Telegram: https://t.me/rmdt_community
-X (Twitter): https://x.com/RMDTCOIN
-YouTube: https://www.youtube.com/@RMDTCoin
-Facebook :https://www.facebook.com/RMDTCOIN
-Instgram :https://www.instagram.com/rmdtcoin/
+
+📣 Community & Social Profiles
+Stay connected with the official RMDT channels:
+
+- Telegram: https://t.me/rmdt_community
+- X (Twitter): https://x.com/RMDTCOIN
+- YouTube: https://www.youtube.com/@RMDTCoin
+- Facebook: https://www.facebook.com/RMDTCOIN
+- Instagram: https://www.instagram.com/rmdtcoin/
+
 
 📝 License
 This project is licensed under MIT.
